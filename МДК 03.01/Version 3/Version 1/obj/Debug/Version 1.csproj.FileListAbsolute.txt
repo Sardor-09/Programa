@@ -1,0 +1,44 @@
+D:\МДК 03.01\Version 1\Version 1\bin\Debug\Version 1.exe.config
+D:\МДК 03.01\Version 1\Version 1\bin\Debug\Version 1.exe
+D:\МДК 03.01\Version 1\Version 1\bin\Debug\Version 1.pdb
+D:\МДК 03.01\Version 1\Version 1\obj\Debug\Version 1.csproj.AssemblyReference.cache
+D:\МДК 03.01\Version 1\Version 1\obj\Debug\Version 1.csproj.SuggestedBindingRedirects.cache
+D:\МДК 03.01\Version 1\Version 1\obj\Debug\Version_1.Home.resources
+D:\МДК 03.01\Version 1\Version 1\obj\Debug\Version_1.Properties.Resources.resources
+D:\МДК 03.01\Version 1\Version 1\obj\Debug\Version 1.csproj.GenerateResource.cache
+D:\МДК 03.01\Version 1\Version 1\obj\Debug\Version 1.csproj.CoreCompileInputs.cache
+D:\МДК 03.01\Version 1\Version 1\obj\Debug\Version 1.exe
+D:\МДК 03.01\Version 1\Version 1\obj\Debug\Version 1.pdb
+D:\МДК 03.01\Version 2\Version 1\bin\Debug\Version 1.exe.config
+D:\МДК 03.01\Version 2\Version 1\bin\Debug\Version 1.exe
+D:\МДК 03.01\Version 2\Version 1\bin\Debug\Version 1.pdb
+D:\МДК 03.01\Version 2\Version 1\obj\Debug\Version 1.csproj.AssemblyReference.cache
+D:\МДК 03.01\Version 2\Version 1\obj\Debug\Version 1.csproj.SuggestedBindingRedirects.cache
+D:\МДК 03.01\Version 2\Version 1\obj\Debug\Version_1.Home.resources
+D:\МДК 03.01\Version 2\Version 1\obj\Debug\Version_1.Properties.Resources.resources
+D:\МДК 03.01\Version 2\Version 1\obj\Debug\Version 1.csproj.GenerateResource.cache
+D:\МДК 03.01\Version 2\Version 1\obj\Debug\Version 1.csproj.CoreCompileInputs.cache
+D:\МДК 03.01\Version 2\Version 1\obj\Debug\Version 1.exe
+D:\МДК 03.01\Version 2\Version 1\obj\Debug\Version 1.pdb
+D:\МДК 03.01\Version 3\Version 1\obj\Debug\Version 1.csproj.AssemblyReference.cache
+D:\МДК 03.01\Version 3\Version 1\obj\Debug\Version 1.csproj.SuggestedBindingRedirects.cache
+D:\МДК 03.01\Version 3\Version 1\obj\Debug\Version_1.Home.resources
+D:\МДК 03.01\Version 3\Version 1\obj\Debug\Version_1.Properties.Resources.resources
+D:\МДК 03.01\Version 3\Version 1\obj\Debug\Version 1.csproj.GenerateResource.cache
+D:\МДК 03.01\Version 3\Version 1\obj\Debug\Version 1.csproj.CoreCompileInputs.cache
+D:\МДК 03.01\Version 3\Version 1\obj\Debug\Version 1.exe
+D:\МДК 03.01\Version 3\Version 1\obj\Debug\Version 1.pdb
+D:\МДК 03.01\Version 3\Version 1\bin\Debug\Version 1.exe.config
+D:\МДК 03.01\Version 3\Version 1\bin\Debug\Version 1.exe
+D:\МДК 03.01\Version 3\Version 1\bin\Debug\Version 1.pdb
+E:\МДК 03.01\Version 3\Version 1\bin\Debug\Version 1.exe.config
+E:\МДК 03.01\Version 3\Version 1\bin\Debug\Version 1.exe
+E:\МДК 03.01\Version 3\Version 1\bin\Debug\Version 1.pdb
+E:\МДК 03.01\Version 3\Version 1\obj\Debug\Version 1.csproj.AssemblyReference.cache
+E:\МДК 03.01\Version 3\Version 1\obj\Debug\Version 1.csproj.SuggestedBindingRedirects.cache
+E:\МДК 03.01\Version 3\Version 1\obj\Debug\Version_1.Home.resources
+E:\МДК 03.01\Version 3\Version 1\obj\Debug\Version_1.Properties.Resources.resources
+E:\МДК 03.01\Version 3\Version 1\obj\Debug\Version 1.csproj.GenerateResource.cache
+E:\МДК 03.01\Version 3\Version 1\obj\Debug\Version 1.csproj.CoreCompileInputs.cache
+E:\МДК 03.01\Version 3\Version 1\obj\Debug\Version 1.exe
+E:\МДК 03.01\Version 3\Version 1\obj\Debug\Version 1.pdb
